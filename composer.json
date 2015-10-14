@@ -1,0 +1,12 @@
+{
+    "name": "monsite/tp",
+    "authors": [
+        {
+            "name": "severijns benjamin",
+            "email": "benjamin.severijns@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/lumen": "^5.1"
+    }
+}
